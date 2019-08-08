@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
+  "title": "Cody Brand's Dev Blog",
   "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Here's where I log my experiences working on development (mostly for web and mobile applications).",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Always working on being a better software dev.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://myurl.com/feed/feed.xml",
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Cody Brand",
+    "email": "cbrand@talentpath.com"
   }
 }
