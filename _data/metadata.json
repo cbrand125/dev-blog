@@ -1,9 +1,9 @@
 {
-  "title": "Cody Brand's Dev Blog",
+  "title": "CB Flow Blog",
   "url": "https://myurl.com/",
-  "description": "Here's where I log my experiences working on development (mostly for web and mobile applications).",
+  "description": "Here's where I log my experiences working on development for the Flow Homepage project.",
   "feed": {
-    "subtitle": "Always working on being a better software dev.",
+    "subtitle": "Flow Homepage dev blog",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://myurl.com/feed/feed.xml",
