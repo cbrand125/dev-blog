@@ -19,6 +19,8 @@
       </ul>
     </header>
 
+    {% if splash %} <img class="splash" src="{{ splash.src }}" alt="{{ splash.alt }}" /> {% endif %}
+
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
       {{ content | safe }}
     </main>

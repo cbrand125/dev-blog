@@ -7,4 +7,4 @@ navtitle: About
 templateClass: tmpl-post
 ---
 
-I am a person that writes stuff.
+I'm a loose cannon with a penchant for misery slowly being radicalized into Javascript purism with a deep love for web/mobile application development.
