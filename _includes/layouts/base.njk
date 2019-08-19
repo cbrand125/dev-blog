@@ -19,7 +19,7 @@
       </ul>
     </header>
 
-    {% if splash %} <img class="splash" src="{{ splash.src }}" alt="{{ splash.alt }}" /> {% endif %}
+    {% if splash %} <div class="splash" style="background: linear-gradient(rgba(23, 130, 77, 0.15), rgba(23, 130, 77, 0.15)), url({{ splash.src }})"></div> {% endif %}
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
       {{ content | safe }}
